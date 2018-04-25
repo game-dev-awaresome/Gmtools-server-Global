@@ -1,0 +1,3 @@
+menuItem1_Name=Language
+button1_Name=Exit
+label1_Text=This is English version!
